@@ -10,4 +10,4 @@
 - To backspace: `CTRL + H`
 - To delete the word before cursor: `CTRL + W`
 - To auto-complete files, directories, etc: `Tab`
-- To close a tab: `CTRL + Shift + W' / `Command + Shift + W`
+- To close a tab: `CTRL + Shift + W` / `Command + Shift + W`
